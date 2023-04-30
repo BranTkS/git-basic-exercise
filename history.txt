@@ -1,17 +1,4 @@
-    1  pwd
-    2  cd ...
-    3  cd ..
-    4  cd users/emmanuels/safriviewbkup
-    5  cd users/emmanuels
-    6  cd /c/users/emmanuels
-    7  cd /c/users/emmanuels/safrivewbkup
-    8  cd safriviewbkup
-    9  git init
-   10  git add .
-   11  git add .
-   12  git commit -m "commit 1"
-   13  git status
-   14  cd /c/Users/emmanuels/Documents/GitHub/connectionTest
+    1
    15  ls
    16  ls /
    17  ls --help
@@ -37,7 +24,7 @@
    37  git branch -M main
    38  git push -u origin main
    39  cd ../
-   40  git clone https://github.com/Umuzi-org/Brandon-Shumba-219-level-1-programming-katas-java.git
+   40  
    41  git config --unset-all credential.helper
    42  git config --unset-all credential.helper
    43  git config credential.helper wincred
@@ -84,24 +71,22 @@
    84  git checkout history
    85  cd ../
    86  git log
-   87  git clone https://github.com/Umuzi-org/Brandon-Shumba-219-level-1-programming-katas-java.git
-   88  git clone https://BranTkS:Hazvineinewe22@github.com/Umuzi-org/Brandon-Shumba-219-level-1-programming-katas-java.git
-   89  git clone https://BranTkS:Hazvineinewe22@github.com/Umuzi-org/Brandon-Shumba-219-level-1-programming-katas-java.git
+   87 
    90  cd "C:\Users\emmanuels\IdeaProjects\umuzi_helloworld\src\git-basic-exercises"
    91  ls
    92  git branch
    93  git log
    94  cd ../
-   95  git clone https://github.com/Umuzi-org/Brandon-Shumba-219-level-1-programming-katas-java.git
+   95
    96  git clone git remote add origin https://github.com/BranTkS/git-basic-exercises.git
-   97  git clone https://github.com/Umuzi-org/Brandon-Shumba-219-level-1-programming-katas-java.git
-   98  cd Brandon-Shumba-219-level-1-programming-katas-java
+   97  
+   98  
    99  ls
   100  cd ../
   101  cd git-basic-exercises
   102  git log
   103  cd ../
-  104  cd Brandon-Shumba-219-level-1-programming-katas-java
+  104  
   105  git checkout main
   106  git pull
   107  checkout -b task/1
